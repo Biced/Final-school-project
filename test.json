@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "code": 200,
+    "data": [
+        {
+            "images": [],
+            "_id": "5e4246f5c37e09033c07fa38",
+            "comments": [],
+            "title": "String",
+            "Price": 4567,
+            "Description": "String",
+            "category": "5e4246f5c37e09033c07fa37",
+            "__v": 0
+        },
+        {
+            "images": [],
+            "_id": "5e424726c37e09033c07fa3a",
+            "comments": [],
+            "title": "String",
+            "Price": 4567,
+            "Description": "String",
+            "category": "5e4246f5c37e09033c07fa37",
+            "__v": 0
+        }
+    ]
+}
